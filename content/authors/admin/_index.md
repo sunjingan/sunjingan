@@ -6,7 +6,7 @@ title: JingAn Sun
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "18300200002@fudan.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
