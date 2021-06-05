@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research trainee
+    company: Institute of High Energy Physics, Chinese Academy of Sciences
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: 
+    date_start: '2020-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Train Particle Flow Network to classify Z-bosens decay mode.The   classification accuracy reaches 95%,and I use training result to improve the error of R value to verified that the quark have colour charge.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research trainee
+    company: Institute of Modern physics,University FuDan
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: 
+    date_start: '2021-04-01'
+    date_end: 
+    description: Use GCM (Generate Coordinate Method) to calculatethe energy and wave function of multiple Harmonic oscillators with delta interaction
 
 design:
   columns: '2'
