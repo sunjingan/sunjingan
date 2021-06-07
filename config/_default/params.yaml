@@ -32,7 +32,7 @@ phone: 18261362201
   - icon: zhihu
     icon_pack: fas
     name: zhihu
-    link: 'https://www.zhihu.com/people/sun-wu-kong-6-61'
+    link: https://www.zhihu.com/people/sun-wu-kong-6-61
 
 # Site header
 
